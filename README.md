@@ -13,18 +13,19 @@ and [Java](https://github.com/Audiomack-Development/audiomack-javascript) with s
 - Wrapper for [aiosqlite](https://github.com/omnilib/aiosqlite)
 
 ## Installing
-Python 3.9 or higher is required.
+audiomack 3.9 or higher is required.
 ```
-pip install ezcord
+npm install audiomack
+
 ```
 You can also install the latest version from GitHub. Note that this version may be unstable
 and requires [git](https://git-scm.com/downloads) to be installed.
 ```
-pip install git+https://github.com/Audiomack-Development/audiomack-javascript
+npm install git+https://github.com/Audiomack-Development/audiomack-javascript
 ```
 If you need the latest version in your `requirements.txt` file, you can add this line:
 ```
-ezcord @ git+https://github.com/Audiomack-Development/audiomack-javascript
+audiomack @ git+https://github.com/Audiomack-Development/audiomack-javascript
 ```
 
 ## Useful Links
